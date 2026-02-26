@@ -1,76 +1,84 @@
-<h1 align="center">Hey 👋 I'm Venuka!</h1>
+<h1 align="center">🚀 Hey, I'm Venuka Ranasinghe</h1>
 
-<h3 align="center">Full Stack Developer | Mobile App Developer | Cloud Enthusiast</h3>
+<h3 align="center">AI Systems Engineer | Agentic AI Builder | Full-Stack Developer</h3>
 
 <p align="center">
-  🚀 Passionate about building scalable applications with modern technologies<br/>
-  💡 Always learning and exploring new tech stacks<br/>
-  🎯 Focused on creating impactful digital solutions
+  🧠 Building production-grade Agentic & Multi-Agent AI Systems <br/>
+  🎙️ Exploring Voice + Multimodal AI Architectures <br/>
+  📱 Shipping scalable Mobile & Web Platforms <br/>
+  ☁️ Cloud-native mindset | Performance-driven engineering
 </p>
 
-###
+---
 
-<h2 align="center">🚀 Tech Stack</h2>
+<h2 align="center">⚡ What I Actually Build</h2>
 
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=ts" height="60" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=nextjs" height="60" alt="nextjs logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=tailwind" height="60" alt="tailwindcss logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=flutter" height="60" alt="flutter logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=docker" height="60" alt="docker logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/storybook/storybook-original.svg" height="60" alt="storybook logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=graphql" height="60" alt="graphql logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=go" height="60" alt="go logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=rust" height="60" alt="rust logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=nestjs" height="60" alt="nestjs logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=py" height="60" alt="python logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=aws" height="60" alt="amazonwebservices logo"  />
-</div>
+<p align="center">
+• Agentic AI platforms (LangChain, Knowledge Bases, LanceDB) <br/>
+• Real-time Voice AI systems (LiveKit, multimodal pipelines) <br/>
+• Enterprise-grade chatbot architectures <br/>
+• Scalable Flutter mobile applications (5,000+ users) <br/>
+• AI + Seismic ML systems (Rumble Guard) <br/>
+• Product-focused startup solutions (Okiz)
+</p>
 
-###
+---
 
-<h2 align="center">📝 Latest Articles</h2>
+<h2 align="center">🛠 Core Tech Stack</h2>
 
 <div align="center">
-  
-<!-- Replace these with your actual articles -->
-- 📖 **[Article Title 1](https://your-blog-url.com/article-1)** - Brief description of your first article
-- 📖 **[Article Title 2](https://your-blog-url.com/article-2)** - Brief description of your second article  
-- 📖 **[Article Title 3](https://your-blog-url.com/article-3)** - Brief description of your third article
-- 📖 **[More Articles...](https://your-blog-url.com)** - Check out all my writings
-
+  <img src="https://skillicons.dev/icons?i=ts,nextjs,react,tailwind,nestjs,nodejs" height="60"/>
+  <br/><br/>
+  <img src="https://skillicons.dev/icons?i=python,flutter,dart,kotlin" height="60"/>
+  <br/><br/>
+  <img src="https://skillicons.dev/icons?i=docker,redis,aws,mongodb,postgres" height="60"/>
 </div>
 
-###
+<p align="center">
+AI & Data: LangChain • LanceDB • TensorFlow • Gemini API • Agentic Frameworks <br/>
+Architecture: REST APIs • Client-Server Systems • Distributed Integrations
+</p>
 
-<h2 align="center">🌐 Connect with me</h2>
+---
+
+<h2 align="center">🧪 Current Focus</h2>
+
+<p align="center">
+🔬 Reinforcement Learning (RL) Systems <br/>
+⚙️ Scalable AI Agent Architectures <br/>
+📈 Performance Optimization & System Reliability
+</p>
+
+---
+
+<h2 align="center">📝 Writing & Research</h2>
+
+<p align="center">
+📖 <b>How Agentic AI Is Revolutionizing Restaurant Operations</b> <br/>
+Exploring how autonomous AI agents transform workflows, automation, and operational intelligence.
+</p>
+
+---
+
+<h2 align="center">📊 Engineering Activity</h2>
 
 <div align="center">
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-  <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
-  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="discord logo"  />
-  <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitch logo"  />
-  <img src="https://img.shields.io/static/v1?message=dev.to&logo=dev.to&label=&color=0A0A0A&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="devto logo"  />
+  <img src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" height="150"/>
 </div>
 
-###
+---
 
-<h2 align="center">📊 GitHub Stats</h2>
+<h2 align="center">🌐 Connect With Me</h2>
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
-  <img src="https://github-profile-trophy.vercel.app?username=YOUR_GITHUB_USERNAME&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
-</div>
+<p align="center">
+  <a href="YOUR_LINKEDIN_URL"><img src="https://img.shields.io/badge/LinkedIn-Professional-blue?style=for-the-badge&logo=linkedin"></a>
+  <a href="YOUR_MEDIUM_URL"><img src="https://img.shields.io/badge/Medium-Writings-black?style=for-the-badge&logo=medium"></a>
+  <a href="YOUR_PORTFOLIO_URL"><img src="https://img.shields.io/badge/Portfolio-Projects-green?style=for-the-badge"></a>
+</p>
 
-###
+---
+
+<p align="center">
+🔥 I build systems that think, scale, and solve real-world problems.
+</p>
